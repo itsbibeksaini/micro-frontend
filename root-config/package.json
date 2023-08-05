@@ -41,7 +41,7 @@
     "webpack-merge": "5.7.3"
   },
   "dependencies": {
-    "@types/jest": "26.0.23",
+    "@types/jest": "26.0.24",
     "@types/systemjs": "6.1.0",
     "@types/webpack-env": "1.16.0",
     "bootstrap": "^5.0.1",
